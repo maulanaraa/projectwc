@@ -1,0 +1,22 @@
+/*
+* Template Name: Visible
+* Template Author: Untree.co
+* Template License: https://creativecommons.org/licenses/by/3.0/
+* Author URI: https://untree.co/
+
+* Twitter: https://twitter.com/Untree_co
+* Facebook: https://web.facebook.com/Untree.co/
+*/
+
+@import "functions";
+@import "variables";
+@import "mixins";
+
+$primary: #2C80E8;
+$black: #000000;
+$white: #ffffff;
+$font-family: 'Roboto', sans-serif;
+
+@import 'site-navbar';
+@import 'site-blocks';
+@import 'site-elements';
